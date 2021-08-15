@@ -1,4 +1,4 @@
-![](https://redirecthost.online/200.gif)
+![](https://redirecthost.online/?dx=git)
 ### Hi there 👋
 
 <!--
