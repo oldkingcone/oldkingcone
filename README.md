@@ -1,4 +1,3 @@
-![](https://redirecthost.online/?dx=git)
 ### Hi there 👋
 
 <!--
@@ -7,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-
+![](https://redirecthost.online/?dx=git)
 
 - 🔭 I’m currently working on slopShell.
 - 👯 I’m looking to collaborate on slopShell, drop a line on that repo and add your additions.
