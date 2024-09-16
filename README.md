@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about i move bits around on a motherboard hoping to actually do something productive.
 - 📫 How to reach me: thats a special secret!
 - ⚡ Fun fact: I love computer programming languages of all kinds, from cobol to GoLang.
+
+  ![Feel free to reach out](https://picscroll.cc)
